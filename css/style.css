@@ -50,7 +50,7 @@ html {
   }
   
   .body {
-    background-color: rgb(211, 211, 211);
+    background-color: brown;
     max-width: 1000px;
     margin: 10px auto;
     font-family: "Lato", sans-serif;
@@ -59,7 +59,7 @@ html {
   }
   
   .container {
-    background-color: brown;
+    background-color: rgb(211, 211, 211);
   }
   
   .table {
